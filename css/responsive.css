@@ -1,0 +1,150 @@
+/*!
+ * Bootstrap Responsive v2.3.1
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+
+@media (min-width: 1200px) {
+	
+}
+
+@media (min-width: 992px) {
+
+	
+	
+}
+
+@media (min-width: 768px) {
+
+	
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+	
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	
+	
+}
+
+@media (max-width: 767px) {
+	p {
+		font-size:12px;
+		}
+	.banner .banner-content h1 {
+		font-size:24px;
+		margin-top:0px;
+		}
+.banner .banner-content {
+		padding-top:150px;
+		padding-bottom:70px;
+		}
+		.banner-content .text {
+			margin-top:50px;
+			}
+	.banner-content .my-text {
+			font-size:20px;
+			}
+		.banner-content h1 .lite-head {
+			font-size:14px;
+			margin-top:40px;
+			}
+		.banner-icon {
+			margin-bottom:15px;
+			}
+
+	/* banner ends */
+	
+	
+	/* about parts */
+	
+	ul.about-info{
+		font-size:12px;	
+		line-height:12px;
+		}
+	.about .my-pic {
+		background:#000000 url(../images/my-pic.jpg) no-repeat center top;
+		height:150px;
+		width:150px;
+		border-radius:50%;
+		margin:30px auto 20px;
+		cursor:pointer;
+		transition:all 1.5s ease;
+		}
+		.about .my-pic:hover {
+			transform:rotate(360deg);
+			}
+		
+	.about-text{
+	line-height:30px;
+	}
+	.services{
+	margin-top:40px;
+	padding-top: 20px;
+    padding-bottom: 0px;
+}
+		.services .service {
+			margin-bottom:25px;
+			}
+
+			.services .service p {
+				font-size: 13px;
+				}
+
+	.shadow-bg { 
+		padding:60px 30px 15px;
+}
+	
+		
+		/* about ends */
+		
+		/* port part stats*/
+		
+		.portfolio .port-mix li {
+		cursor:pointer;
+		margin:0 20px 10px;
+		}
+		
+		
+		/* work part */
+		
+		.work-process {
+			padding:50px 0 50px 0;
+			}
+			.work-process .work-wrap {
+				margin-top:50px;
+				}
+
+				.work-wrap .work-item {
+					width:33.3333%;
+					margin-bottom:30px;
+					}
+					.work-item i {
+						font-size:50px;
+						margin-bottom:75px;
+						}
+					.work-item p {
+						font-size:18px;
+						letter-spacing: 0px;
+						}
+			/* work part ends */
+  
+  	/* test part */
+	
+	.testimonals {
+	padding:70px 0 70px;
+	}
+
+}
+
+
